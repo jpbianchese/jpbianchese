@@ -1,5 +1,6 @@
 # 💫 Sobre mim:
-👉 Olá, me chamo João Pedro e aqui a baixo está algumas informações sobre mim.<br>🔭 Sou estudante FullStack.<br>👯 Estou a procura de estágio.<br>🌱 Faço graduação de Analise e Desenvolvimento de Sistemas.<br>🎓 Aluno da faculdade Newton Paiva.<br>🎂 Tenho 19 anos.
+👉 Olá, me chamo João Pedro e aqui a baixo está algumas informações sobre mim.<br>🔭 Sou estudante FullStack.<br>👯 Estou a procura de estágio.<br>🌱 Faço graduação de Analise e Desenvolvimento de Sistemas.<br>🎓 Aluno da faculdade Newton Paiva.<br>🎂 Tenho 20
+ anos.
 
 
 ## 🌐 Redes Sociais:
