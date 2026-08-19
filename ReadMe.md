@@ -1,4 +1,5 @@
 > Jpxh
 
 *21y | Backend Developer*
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpaugusto.b/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jpaugusto.b/)
